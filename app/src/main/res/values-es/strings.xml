@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Magneto - Analizador de ADNs</string>
+
+    <string name="mutants">Mutantes</string>
+    <string name="humans">Humanos</string>
+
+    <string name="matrix_size_label">Tamaño</string>
+
+    <string name="mutants_message">Bienvenido hermano Mutante</string>
+    <string name="humans_message">No se aceptan simples humanos!</string>
+    <string name="strange_message">Eres un ser extraño! Nuestra lucha no es contigo (todavia)</string>
+    <string name="error_message">Hubo un error, por favor intente mas tarde</string>
+</resources>

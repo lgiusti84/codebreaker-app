@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Magneto\'s DNA Analyzer</string>
+
+    <string name="value_placeholder">--</string>
+
+    <string name="mutants">Mutants</string>
+    <string name="humans">Humans</string>
+
+    <string name="test_dna">Test</string>
+    <string name="matrix_reset">Reset</string>
+    <string name="matrix_size_label">Size:</string>
+
+    <string name="dna_value_a">A</string>
+    <string name="dna_value_c">C</string>
+    <string name="dna_value_g">G</string>
+    <string name="dna_value_t">T</string>
+    <string name="back_arrow">←</string>
+
+    <string name="mutants_message">Welcome to the brotherhood fellow Mutant!</string>
+    <string name="humans_message">No humans allowed! We\'ll come for you later</string>
+    <string name="strange_message">You are a strange being, we have no quarrel with you (yet)</string>
+    <string name="error_message">There was an error. Try again later.</string>
+</resources>
